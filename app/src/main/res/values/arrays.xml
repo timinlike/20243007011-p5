@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="municipalities_array">
+        <item>Beijing is the capital of China, serving as the nation’s political, cultural, and international communication center. With over 3,000 years of urban history and more than 860 years as a capital, it houses world-renowned sites such as the Forbidden City, the Great Wall, and the Temple of Heaven. Beijing blends ancient hutong life and Peking Opera with modern skyscrapers and a world-leading subway system.</item>
+        <item>Shanghai, located at the mouth of the Yangtze River, grew from a fishing village into China’s largest industrial, commercial, and financial hub. It became a county in 1291 during the Yuan Dynasty and later developed into a cosmopolitan metropolis known as the “Oriental Paris.” The city combines historic landmarks like the Bund with modern icons such as the Oriental Pearl Tower, offering a unique blend of Eastern and Western cultures.</item>
+        <item>Chongqing is the only municipality directly under the central government in western China, renowned as a “mountain city” and “river city.” As the birthplace of Bayu culture, it has a recorded history of over 3,000 years. Situated at the junction of the Yangtze River and Jialing River, Chongqing serves as a strategic hub for western development and the Belt and Road Initiative, featuring dramatic landscapes and a distinct local culture.</item>
+        <item>Tianjin, meaning “the Emperor’s ferry,” is a major port city in northern China with a city history of over 600 years. It served as a gateway to the capital and a window for modern China’s interactions with the world. Tianjin is known for its blend of Chinese and Western architecture along the Haihe River, its vibrant folk arts including cross-talk, and its role as a key economic center in the Beijing-Tianjin-Hebei region.</item>
+    </string-array>
+</resources>
